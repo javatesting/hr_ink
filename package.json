@@ -1,0 +1,19 @@
+{
+  "name": "hr_ink...",
+  "description": "",
+  "homepage": "",
+  "private": true,
+  "scripts": {
+    "start": "live-server"
+   
+  },
+  "engines": {
+    "npm": ">=2.14.x"
+  },
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "live-server": "^1.1.0"
+    }
+}
